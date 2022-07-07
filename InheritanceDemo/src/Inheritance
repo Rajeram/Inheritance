@@ -1,0 +1,13 @@
+Inheritance
+
+Inheriting properties from parent class to child cLass using 'extends' keyword.
+
+
+Types of Inheritance
+
+A)Single :A--->B --------Combinations of one parent class and one child class.
+B)Multi level: A->B->C---Child class is accesing more than one parent class in a tree level structure
+C)Multiple : A+B->C -----Child class is accesing more than one parent class parallely
+                        (Not Supported by Java) but we can implement from Interface.
+D)Heirarchial : A->B ,A->C, A->D---Combination of  one parent and more than one child
+E)Hybrid :---------------combination of multiple and Hirarchial.
